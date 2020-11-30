@@ -1,0 +1,3 @@
+Un paragraphe est une section de texte en prose vouée au développement d'un point particulier souvent au moyen de plusieurs phrases, 
+dans la continuité du précédent et du suivant.
+Sur le plan typographique, le début d'un paragraphe est marqué par un léger renfoncement ou par un saut de ligne.
